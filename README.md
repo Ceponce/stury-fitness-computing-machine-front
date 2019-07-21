@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+https://ceponce.github.io/stury-fitness-computing-machine-front/
+
 ## Available Scripts
 
 In the project directory, you can run:
