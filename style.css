@@ -1,0 +1,85 @@
+body {
+  background-color: #121017;
+  color: white;
+  position: center;
+  font-family: 'Lato', sans-serif;
+}
+
+.graphs {
+  /* background-color: #2F3139; */
+  /* border: 1px solid white; */
+  margin-top: 20px;
+  width: 90vw;
+  height: 30vh;
+  margin-left: 5px;
+}
+hr {
+  border-width: 1px;
+  color: white;
+}
+
+.outer {
+  height: 10px;
+}
+
+.inner {
+  position: absolute;
+}
+
+.inner-box {
+  width: 100%;
+  text-align: center;
+  position: absolute;
+}
+
+.inner-title {
+  left: 50vw;
+  /* margin-left: 40%; */
+}
+
+.the-title {
+  background-color: #121017;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 30px;
+  border: 1px solid white;
+  margin-top: -12px;
+  margin-left: -90px;
+  width: 180px;
+  height: 40px;
+}
+
+.content {
+  margin-top: 80px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 1rem;
+}
+.grid > div {
+  background: #EDE7F6;
+  padding: 1.5rem;
+  border-radius: 6px;
+  height: 130px;
+  background-color: #1f1d2447;
+  border: 1px solid white;
+  padding-top: 1rem;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.item {
+  line-height: 1.5;
+  /* width: 100% */
+}
+
+.sets {
+  text-align: right;
+  width: 100%;
+  font-weight: 300;
+}
