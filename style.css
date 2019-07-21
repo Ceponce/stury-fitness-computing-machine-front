@@ -65,7 +65,7 @@ hr {
   background: #EDE7F6;
   padding: 1.5rem;
   border-radius: 6px;
-  height: 200px;
+  height: 220px;
   background-color: #1f1d2447;
   border: 1px solid white;
   padding-top: 1rem;
@@ -87,4 +87,12 @@ hr {
   float: right;
   font-weight: 300;
   display: inline;
+}
+
+.new-workout {
+  text-align: center;
+  font-size: 15rem;
+  font-weight: 300;
+  line-height: .85;
+  padding-top: 0rem;
 }
