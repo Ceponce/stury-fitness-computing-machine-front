@@ -1,5 +1,5 @@
 body {
-  background-color: #121017;
+  background-color: #19171e;
   color: white;
   position: center;
   font-family: 'Lato', sans-serif;
@@ -64,10 +64,10 @@ hr {
 .grid > div {
   background: #EDE7F6;
   padding: 1.5rem;
-  border-radius: 6px;
+  border-radius: 4px;
   height: 220px;
-  background-color: #1f1d2447;
-  border: 1px solid white;
+  background-color: #121017;
+  /* border: 1px solid white; */
   padding-top: 1rem;
   font-size: 2.7rem;
   font-weight: 700;
