@@ -81,12 +81,20 @@ hr {
 .left {
   display: inline;
   text-align: left;
+  font-weight:600;
+}
+
+.time-subtitle {
+  padding-left: 20px;
+  font-size: 2.4rem;
+  font-weight: 300;
 }
 
 .right {
   float: right;
   font-weight: 300;
   display: inline;
+  font-size: 2.4rem;
 }
 
 .new-workout {
